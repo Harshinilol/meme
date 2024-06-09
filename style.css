@@ -1,0 +1,35 @@
+*{
+    color: black;
+}
+html{
+    background-color: black;
+}
+div{
+    height: 500px;
+    width: 400px;
+}
+img{
+    border: 10px solid white;
+    width :100%;
+}
+h1{
+    
+        font-family: "Libre Baskerville", serif;
+        font-weight: 400;
+        font-style: normal;
+        color: rgb(6, 245, 245);
+        text-align: center;
+      
+}
+
+h2{
+    
+    
+        font-family: "Permanent Marker", cursive;
+        font-weight: 400;
+        font-style: normal;
+      
+      
+      text-align: center;
+    color: chartreuse;
+}
